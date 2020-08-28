@@ -1,0 +1,9 @@
+C:\Users\a1101\source\repos\ScaffoldDbContext\MsSqlService\bin\Debug\netcoreapp2.1\MsSqlService.deps.json
+C:\Users\a1101\source\repos\ScaffoldDbContext\MsSqlService\bin\Debug\netcoreapp2.1\MsSqlService.dll
+C:\Users\a1101\source\repos\ScaffoldDbContext\MsSqlService\obj\Debug\netcoreapp2.1\MsSqlService.csproj.CoreCompileInputs.cache
+C:\Users\a1101\source\repos\ScaffoldDbContext\MsSqlService\obj\Debug\netcoreapp2.1\MsSqlService.AssemblyInfoInputs.cache
+C:\Users\a1101\source\repos\ScaffoldDbContext\MsSqlService\obj\Debug\netcoreapp2.1\MsSqlService.AssemblyInfo.cs
+C:\Users\a1101\source\repos\ScaffoldDbContext\MsSqlService\obj\Debug\netcoreapp2.1\MsSqlService.csprojAssemblyReference.cache
+C:\Users\a1101\source\repos\ScaffoldDbContext\MsSqlService\bin\Debug\netcoreapp2.1\MsSqlService.pdb
+C:\Users\a1101\source\repos\ScaffoldDbContext\MsSqlService\obj\Debug\netcoreapp2.1\MsSqlService.dll
+C:\Users\a1101\source\repos\ScaffoldDbContext\MsSqlService\obj\Debug\netcoreapp2.1\MsSqlService.pdb

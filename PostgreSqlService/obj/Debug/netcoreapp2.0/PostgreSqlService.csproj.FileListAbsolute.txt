@@ -1,0 +1,8 @@
+C:\Users\a1101\source\repos\ScaffoldDbContext\PostgreSqlService\bin\Debug\netcoreapp2.0\PostgreSqlService.deps.json
+C:\Users\a1101\source\repos\ScaffoldDbContext\PostgreSqlService\bin\Debug\netcoreapp2.0\PostgreSqlService.dll
+C:\Users\a1101\source\repos\ScaffoldDbContext\PostgreSqlService\obj\Debug\netcoreapp2.0\PostgreSqlService.csproj.CoreCompileInputs.cache
+C:\Users\a1101\source\repos\ScaffoldDbContext\PostgreSqlService\obj\Debug\netcoreapp2.0\PostgreSqlService.AssemblyInfoInputs.cache
+C:\Users\a1101\source\repos\ScaffoldDbContext\PostgreSqlService\obj\Debug\netcoreapp2.0\PostgreSqlService.AssemblyInfo.cs
+C:\Users\a1101\source\repos\ScaffoldDbContext\PostgreSqlService\bin\Debug\netcoreapp2.0\PostgreSqlService.pdb
+C:\Users\a1101\source\repos\ScaffoldDbContext\PostgreSqlService\obj\Debug\netcoreapp2.0\PostgreSqlService.dll
+C:\Users\a1101\source\repos\ScaffoldDbContext\PostgreSqlService\obj\Debug\netcoreapp2.0\PostgreSqlService.pdb
